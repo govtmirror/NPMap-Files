@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
-<Document id="EcoRegionFinal" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
-	<name>EcoRegionFinal</name>
+<Document id="Layers" xsi:schemaLocation="http://www.opengis.net/kml/2.2 http://schemas.opengis.net/kml/2.2.0/ogckml22.xsd http://www.google.com/kml/ext/2.2 http://code.google.com/apis/kml/schema/kml22gx.xsd">
+	<name>Layers</name>
 	<Snippet maxLines="0"></Snippet>
 	<Style id="PolyStyle06">
 		<LabelStyle>
@@ -13,46 +13,7 @@
 			<width>0.4</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffbdebfc</color>
-		</PolyStyle>
-	</Style>
-	<Style id="PolyStyle011">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>ff6e6e6e</color>
-			<width>0.4</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>fffcb6bc</color>
-		</PolyStyle>
-	</Style>
-	<Style id="PolyStyle019">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>ff6e6e6e</color>
-			<width>0.4</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>ffbdfcb6</color>
-		</PolyStyle>
-	</Style>
-	<Style id="PolyStyle00">
-		<LabelStyle>
-			<color>00000000</color>
-			<scale>0</scale>
-		</LabelStyle>
-		<LineStyle>
-			<color>ff6e6e6e</color>
-			<width>0.4</width>
-		</LineStyle>
-		<PolyStyle>
-			<color>fffcedb8</color>
+			<color>ffeffcb3</color>
 		</PolyStyle>
 	</Style>
 	<Style id="PolyStyle0723">
@@ -65,7 +26,46 @@
 			<width>0.4</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ffd4c5fc</color>
+			<color>ffb6fcd3</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle00">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fffcdbb6</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle019">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>fff5b3fc</color>
+		</PolyStyle>
+	</Style>
+	<Style id="PolyStyle011">
+		<LabelStyle>
+			<color>00000000</color>
+			<scale>0</scale>
+		</LabelStyle>
+		<LineStyle>
+			<color>ff6e6e6e</color>
+			<width>0.4</width>
+		</LineStyle>
+		<PolyStyle>
+			<color>ffbbccfc</color>
 		</PolyStyle>
 	</Style>
 	<Folder id="FeatureLayer0">
